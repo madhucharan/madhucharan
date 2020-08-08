@@ -16,5 +16,40 @@ Here are some ideas to get you started:
 -->
 My name is Madhu Charan.
 
-I am an undergraduate student pursuing B.Tech at SASTRA UNIVERSITY,Thanjavur.
+I am an undergraduate student pursuing Bachelors Degree at SASTRA UNIVERSITY,Thanjavur.
+
+### About Me:
+I'm always fascinated by how Machine Learning and AI can be applied to everything around us and
+this led me to be passionate about it. I am eager to keep exploring the vast sea that AI is and wish to
+develop my knowledge and skills in the same field in the near future.
+
+### My Tech Skills:
+
+WEB TECH:
+-
+- HTML, CSS , JAVA SCRIPT
+
+DATA BASE :
+-
+- My SQL
+
+LANGUAGES :
+-
+- C++
+- PYTHON
+- JAVA
+
+### You can catch me at :
+
+Twitter  : [@MadhuCharanM](https://twitter.com/MadhuCharanM)
+
+LinkedIn : [Madhu Charan](https://www.linkedin.com/in/madhucharan/)
+
+GitHub   : [madhucharan](https://github.com/madhucharan)
+
+### Thank you !
+
+
+
+
 
