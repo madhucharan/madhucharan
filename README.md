@@ -25,15 +25,15 @@ develop my knowledge and skills in the same field in the near future.
 
 ### My Tech Skills:
 
-WEB TECH:
+Web Tech:
 -
 - HTML, CSS , JAVA SCRIPT
 
-DATA BASE :
+Data Base :
 -
 - My SQL
 
-LANGUAGES :
+Languages :
 -
 - C++
 - PYTHON
