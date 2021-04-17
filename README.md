@@ -36,7 +36,7 @@ develop my knowledge and skills in the same field in the near future.
 - JAVA
 ### You can catch me at :
 
-Twitter  : [@MadhuCharanM](https://twitter.com/MadhuCharanM)
+Twitter  : [@themadhucharan](https://twitter.com/themadhucharan)
 
 LinkedIn : [Madhu Charan](https://www.linkedin.com/in/madhucharan/)
 
